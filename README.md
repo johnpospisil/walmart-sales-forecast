@@ -216,7 +216,7 @@ pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn
 
 ## 📞 Contact & Collaboration
 
-For any questions or collaboration opportunities, please contact [John Pospisil](mailto:john@johnpospisil.com).\
+For any questions or collaboration opportunities, please contact [John Pospisil](mailto:john@johnpospisil.com).
 
 **Ready for immediate deployment across retail operations!**
 
