@@ -1,7 +1,5 @@
 # Forecasting Sales for 45 Walmart Locations
 
-![Walmart Store](https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
-
 ## 🎯 Executive Summary
 
 This comprehensive machine learning project successfully **transformed Walmart sales forecasting from baseline to production-ready excellence**, achieving a remarkable **87.4% improvement** in prediction accuracy through systematic feature engineering and advanced modeling techniques.
@@ -217,6 +215,8 @@ pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn
 5. Explore visualizations in `./images/` directory
 
 ## 📞 Contact & Collaboration
+
+For any questions or collaboration opportunities, please contact [John Pospisil](mailto:john@johnpospisil.com).\
 
 **Ready for immediate deployment across retail operations!**
 
