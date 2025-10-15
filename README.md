@@ -4,11 +4,6 @@
 
 Advanced machine learning analysis of Walmart department sales data with comprehensive forecasting models and strategic insights. This project delivers actionable intelligence for retail optimization through sophisticated data analysis and visualization.
 
-### **📈 Key Visualization Preview**
-
-![Comprehensive Analysis Dashboard](images/comprehensive_analysis_dashboard.png)
-_Professional 4-panel dashboard with seasonal analysis, performance rankings, and strategic insights_
-
 ## 📊 Key Features
 
 ### 🎯 **Core Analysis**
