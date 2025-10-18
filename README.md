@@ -293,13 +293,14 @@ Contributions are welcome! Please follow these guidelines:
 4. Update documentation
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 For questions, suggestions, or collaboration opportunities, please reach out through GitHub issues or direct contact.
+
+📩 **Email**: [john@johnpospisil.com](mailto:john@johnpospisil.com)  
+🐦 **Twitter/X**: [@audiofreak7](https://x.com/audiofreak7)  
+🔗 **LinkedIn**: [John Pospisil](https://www.linkedin.com/in/johnpospisil/)  
+🌐 **Portfolio**: Advanced Customer Analytics & ML-Driven Revenue Optimization
 
 ---
 
