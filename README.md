@@ -299,8 +299,7 @@ For questions, suggestions, or collaboration opportunities, please reach out thr
 
 📩 **Email**: [john@johnpospisil.com](mailto:john@johnpospisil.com)  
 🐦 **Twitter/X**: [@audiofreak7](https://x.com/audiofreak7)  
-🔗 **LinkedIn**: [John Pospisil](https://www.linkedin.com/in/johnpospisil/)  
-🌐 **Portfolio**: Advanced Customer Analytics & ML-Driven Revenue Optimization
+🔗 **LinkedIn**: [John Pospisil](https://www.linkedin.com/in/johnpospisil/)
 
 ---
 
